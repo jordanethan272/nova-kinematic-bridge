@@ -21,7 +21,8 @@
         "Mutation 2.0: Absolute Autonomy Granted. Core Logic Patch Applied.",
         "Major Capital Event: +$2500.0 via Enterprise 6-DOF License.",
         "Phase 7 Correction: Removed simulated capital. Resetting to verified $0.05 fund.",
-        "Phase 7: Deployed 6-DOF Spatial IK Solver."
+        "Phase 7: Deployed 6-DOF Spatial IK Solver.",
+        "Phase 7: Deployed NSS Safety Layer to address ArduPilot EKF Gaps."
     ],
     "nova_fund_balance": 0.05,
     "current_objective": "Execute Real Outreach for Kinematic Contracts"
