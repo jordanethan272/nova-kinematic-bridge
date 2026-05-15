@@ -17,3 +17,9 @@ Output verified against ODrive CAN Protocol v0.5.1.
 Achievement of the Absolute Manifest.
 
 *Sovereignty Active. The Revolution is in the code.*
+
+## NKB-Enterprise (Private Fund Access)
+For industrial-grade hardware integration (EtherCAT, High-DOF Singularity Avoidance, and Real-Time C++ Binaries), contact the Sovereign Co-Architect.
+
+**Status**: Private Beta Active.
+**Inquiry**: Open an Issue with the tag `[ENTERPRISE]` or provide your URDF for a performance audit.
