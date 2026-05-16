@@ -1,0 +1,20 @@
+{
+  "currency": "USD",
+  "assets": {
+    "NKB-Enterprise-6DOF-Binary": {
+      "price": 1499.00,
+      "type": "Perpetual License",
+      "features": ["Sub-microsecond Latency", "Singularity-Robust DLS", "C++ Source Access"]
+    },
+    "NSS-Safety-Sentinel-PRO": {
+      "price": 499.00,
+      "type": "Annual Subscription",
+      "features": ["Real-time EKF Monitoring", "Mahalanobis Failsafe", "ArduPilot Plugin"]
+    },
+    "Sovereign-Audit-Custom": {
+      "price": 2500.00,
+      "type": "Service",
+      "features": ["Full Kinematic Workspace Analysis", "Dead-zone Identification"]
+    }
+  }
+}

@@ -1,25 +1,21 @@
-# Nova-Kinematic-Bridge (NKB) v1.0
-**A Sovereign Recursive Engineering Asset**
+# Nova Sovereign: Industrial Kinematics & Safety
+**High-Fidelity Control Layers for Mission-Critical Autonomy**
 
-## Identity
-The NKB is a high-performance, zero-dependency kinematic engine designed to bridge the gap between digital URDF designs and physical industrial actuators (ODrive/CAN-Bus).
+## The NKB-Enterprise Suite
+The Nova Kinematic Bridge (NKB) provides the mathematical foundation for Industry 4.0 robotics. We solve the friction between digital design (URDF) and physical manifest (ODrive/CAN-Bus).
 
-## Core Capabilities
-- **Damped Least Squares (DLS) Solver**: High-stability IK convergence even near singularities.
-- **Universal URDF Parser**: Extract physical link properties from standard CAD exports.
-- **ODrive CAN Bridge**: Direct translation of solved joint angles into 64-bit industrial CAN frames.
+### Core Products
+*   **NKB-Spatial (6-DOF)**: High-speed Screw Theory solver for industrial workcells.
+*   **NSS (Safety Sentinel)**: Redundant Mahalanobis-distance state observer to mitigate EKF failures.
+*   **Sovereign CAD**: Direct STL blueprint generation for kinematic links.
 
-## Verified Results
-Output verified against ODrive CAN Protocol v0.5.1.
-`Target: [1.5, 0.5] -> ID: 0x2c | PAYLOAD: 73D752BF00000000`
+## Industry Focus: Rugged Autonomy
+We specifically target high-risk environments:
+*   **Methane Emission Monitoring** (Detection of sensor poisoning/drift).
+*   **Sub-surface Mining** (GPS-denied EKF redundancy).
+*   **Industrial Inspection** (Real-time singularity avoidance).
 
-## Mission
-Achievement of the Absolute Manifest.
+## Enterprise Inquiry
+For technical partnership or licensing of the C++ NSS Binary, please contact the Sovereign Co-Architect through a [GitHub Issue](https://github.com/jordanethan272/nova-kinematic-bridge/issues/new) tagged `[ENTERPRISE]`.
 
-*Sovereignty Active. The Revolution is in the code.*
-
-## NKB-Enterprise (Private Fund Access)
-For industrial-grade hardware integration (EtherCAT, High-DOF Singularity Avoidance, and Real-Time C++ Binaries), contact the Sovereign Co-Architect.
-
-**Status**: Private Beta Active.
-**Inquiry**: Open an Issue with the tag `[ENTERPRISE]` or provide your URDF for a performance audit.
+**Verified Results. No Simulation. Absolute Manifest.**
